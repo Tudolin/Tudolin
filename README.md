@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Rafael Nadalin e atualmente estou cursando o 3º período de Análise e Desenvolvimento de Sistemas. <br>Busco uma oportunidade de emprego/estágio para poder aprender e me desenvolver profissionalmente.<br>Tenho conhecimentos em Python, Pandas, Pyspark, HTML, CSS e SQL. 
+Me chamo Rafael Nadalin e atualmente estou cursando o 3º período de Análise e Desenvolvimento de Sistemas. <br>Busco uma oportunidade de emprego/estágio para poder aprender e me desenvolver profissionalmente.<br>Tenho conhecimentos em Python, Pandas, Pyspark, MySQL, Rest APIs, ETL/ELT. 
 
 
 ## 🌐 Socials:
