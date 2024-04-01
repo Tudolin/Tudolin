@@ -1,6 +1,7 @@
 # 💫 About Me:
-Me chamo Rafael Nadalin e atualmente estou cursando o 3º período de Análise e Desenvolvimento de Sistemas. <br>Busco uma oportunidade de emprego/estágio para poder aprender e me desenvolver profissionalmente.<br>Tenho conhecimentos em Python, Pandas, Pyspark, MySQL, Rest APIs, ETL/ELT. 
-
+Atualmente no 5º período de Análise e Desenvolvimento de Sistemas. Tenho conhecimentos em desenvolvimento Python e proficiência na construção de endpoints para extração de relatórios em API's Rest (Tiktok, Pinterest, etc) e integração de dados com serviços cloud.
+Utilização de servicos da Google Cloud: BigQuerry, PubSub, Firestore, Storage, Functions.
+MySQL, métodos HTTP, Data Lake e Data Warehouse, ETL/ELT, Pandas, Power BI, Looker Studio e PySpark.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tudolin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaelnadalin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-nadalin-68166722a/) 
