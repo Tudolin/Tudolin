@@ -23,6 +23,7 @@ Formado como Analista de Sistemas, atualmente atuando como Engenheiro de Dados f
 <p align="left">
  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nadalin-68166722a/" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/rafaelnadalin" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://tudolin.github.io/" alt="Portfolio"/></a>
 </p>
 
 # 📊 GitHub Stats:
