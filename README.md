@@ -20,11 +20,10 @@ Formado como Analista de Sistemas, atualmente atuando como Engenheiro de Dados f
   💌 <strong>Caso tenha gostado do meu perfil ou queira se conectar comigo, basta encontrar em contato via:</strong> ⤵️
 </p>
 
-<p align="left">
- <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-nadalin-68166722a/" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/rafaelnadalin" alt="Instagram"/></a>
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://tudolin.github.io/" alt="Portfolio"/></a>
-</p>
+
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafael-nadalin-68166722a/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>](https://tudolin.github.io/)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tudolin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -40,7 +39,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Data Engineer (JR)** \
 [**Safe7**](https://safe7consultoria.com.br/) • Full-time \
 Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `MongoDB`, `GCP`, `Looker Studio`, `Javascript | HTML | CSS`, `Rest API`\
-Projetos em destaque:
+Projetos em destaque: `Desenvolvmento do Toolkit`, `Desenvolvimento Pipepline de ETL dos dados de vistorias`, `Migração do Banco de Dados`.
+<br/>
+Resumo: 
+<br/>
+* Responsável por análisar o contexto de negócio e desenvolver soluções para máximizar a produtividade.
+* Re-fatoração e modelagem de um novo banco de dados.
+* Criação de ferramenta Web interna "Safe7 Toolkit", centralizando diversos processos e operando como visualizador e gerenciador de processos internos, como mapeamento e cadastro de contatos, automatização de processos e geração de relatórios de performance(KPI's).
+* Desenvolvimento de pipeline ETL utilizando serviços providos pela GCP. Utilizando Python, web-scraping e API Rest.
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Mirum" src="https://media.licdn.com/dms/image/C560BAQGyA1CtAMmQbg/company-logo_200_200/0/1630594517323/mirumsoutheurope_logo?e=2147483647&v=beta&t=AHQFHqerzaF5RYfu3vkuxNeJf66bGXAydFRqw7Aaolw"/>](https://www.mirumagency.com.br/)
@@ -48,7 +54,15 @@ Projetos em destaque:
 **Data Engineer (Intern)** \
 [**Mirum Agency**](https://www.mirumagency.com.br/) • Half-time \
 Linguagens & Tecnologias: `Python`, `GCP`, `MySQL` `Rest API`\
-Projetos em destaque:
+Projetos em destaque: `Magrathea`.
+<br/>
+Resumo:
+<br/>
+* Manutenção e interpretação de códigos utilizados em ELT/ELT.
+* Configuração e manutenção de serviços cloud GCP.
+* Criação de consultas e suporte SQL para auxiliar o time de BI.
+* Desenvolvimento de endpoints utilizando Python para a conexão com API's de veículos de mídia, e extração e tratamento de reports, tais como TikTok, Twitter, Pinterest, Google ADS.
+* Auxiliar no suporte a clientes, manutenção e configuração de contas e monitoramento de serviços.
 <br/>
 
 
