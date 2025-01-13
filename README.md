@@ -34,21 +34,6 @@ Formado como Analista de Sistemas, atualmente atuando como Engenheiro de Dados f
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Safe7" src="https://safe7consultoria.com.br/wp-content/uploads/2020/03/logo-nova-1024x1024.png"/>](https://safe7consultoria.com.br/)
-
-**Data Engineer (JR)** \
-[**Safe7**](https://safe7consultoria.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `MongoDB`, `GCP`, `Looker Studio`, `Javascript | HTML | CSS`, `Rest API`\
-Projetos em destaque: `Desenvolvmento do Toolkit`, `Desenvolvimento Pipepline de ETL dos dados de vistorias`, `Migração do Banco de Dados`.
-<br/>
-Resumo: 
-<br/>
-* Responsável por análisar o contexto de negócio e desenvolver soluções para máximizar a produtividade.
-* Re-fatoração e modelagem de um novo banco de dados.
-* Criação de ferramenta Web interna "Safe7 Toolkit", centralizando diversos processos e operando como visualizador e gerenciador de processos internos, como mapeamento e cadastro de contatos, automatização de processos e geração de relatórios de performance(KPI's).
-* Desenvolvimento de pipeline ETL utilizando serviços providos pela GCP. Utilizando Python, web-scraping e API Rest.
-<br/>
-
 [<img align="left" height="94px" width="94px" alt="Mirum" src="https://media.licdn.com/dms/image/C560BAQGyA1CtAMmQbg/company-logo_200_200/0/1630594517323/mirumsoutheurope_logo?e=2147483647&v=beta&t=AHQFHqerzaF5RYfu3vkuxNeJf66bGXAydFRqw7Aaolw"/>](https://www.mirumagency.com.br/)
 
 **Data Engineer (Intern)** \
@@ -65,4 +50,28 @@ Resumo:
 * Auxiliar no suporte a clientes, manutenção e configuração de contas e monitoramento de serviços.
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="Safe7" src="https://safe7consultoria.com.br/wp-content/uploads/2020/03/logo-nova-1024x1024.png"/>](https://safe7consultoria.com.br/)
+
+**Data Engineer (JR)** \
+[**Safe7**](https://safe7consultoria.com.br/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Flask`, `MySQL`, `MongoDB`, `GCP`, `Looker Studio`, `Javascript | HTML | CSS`, `Rest API`\
+Projetos em destaque: `Desenvolvmento de Ferramentas web`, `Desenvolvimento Pipepline de ETL dos dados de vistorias`, `Migração do Banco de Dados`.
+<br/>
+Resumo: 
+<br/>
+* Responsável por análisar o contexto de negócio e desenvolver soluções para máximizar a produtividade.
+* Re-fatoração e modelagem de um novo banco de dados.
+* Criação de ferramenta Web interna "Safe7 Toolkit", centralizando diversos processos e operando como visualizador e gerenciador de processos internos, como mapeamento e cadastro de contatos, automatização de processos e geração de relatórios de performance(KPI's).
+* Desenvolvimento de pipeline ETL utilizando serviços providos pela GCP. Utilizando Python, web-scraping e API Rest.
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Safe7" src="https://media.licdn.com/dms/image/v2/D4D0BAQFXOWXbO-XlhA/company-logo_200_200/company-logo_200_200/0/1721999015833/wpp_media_services_logo?e=2147483647&v=beta&t=knUP6R_bgcfQvrr2m6cRqjAYZHJMV1xKK-QWCb9ZAcA"/>](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all)
+
+**Data Engineer (JR)** \
+[**WPP MEDIA SERVICES**](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all) • Full-time \
+Linguagens & Tecnologias: `Python`, `SQL`, `GCP`, `Docker`\
+Projetos em destaque: `Criação e manutenção de ETL`, `Gerenciamento de serviços cloud`.
+<br/>
+Resumo: 
+<br/>
 
