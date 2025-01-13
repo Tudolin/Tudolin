@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-<strong> 💫 About Me: </strong>
+<strong> 💫 Sobre: </strong>
 Formado como Analista de Sistemas, atualmente atuando como Engenheiro de Dados focado em evoluir e me especializar em Cloud Data Engineer.
 </p>
 <p align="left">
