@@ -8,13 +8,19 @@
 
 <p align="left"> 
 <strong> 💫 About Me: </strong>
-Systems Analysis graduate currently working as a Data Engineer focused on evolving and specializing in Cloud Data Engineering.
+Data Engineer with 3+ years of experience building scalable data pipelines and data warehouse architectures on Google Cloud Platform. Google Cloud Professional Data Engineer certified. Currently pursuing a degree in Systems Analysis and Development.
 </p>
 <p align="left">
-  💼 <strong>Tools:</strong> Python, SQL, GCP, PySpark, Docker, MySQL, MongoDB, Flask, Pandas, GitHub Actions.
+  ☁️ <strong>Cloud (GCP):</strong> BigQuery, Dataflow, Dataproc, Pub/Sub, Cloud Storage, Cloud Composer (Airflow), Cloud Functions, Vertex AI, Cloud Monitoring
 </p>
 <p align="left">
-  🧳 <strong>Skills:</strong> Data processing, Rest API, Code versioning (Git), CI/CD, Cloud computing, Linux.
+  💼 <strong>Languages & Tools:</strong> Python, PySpark, Advanced SQL, Docker, Git, MySQL, MongoDB, Flask, Pandas, GitHub Actions
+</p>
+<p align="left">
+  🧳 <strong>Engineering:</strong> ETL/ELT, Data Modeling (relational & dimensional), Data Quality & Governance, CI/CD, REST APIs, Cloud Architecture
+</p>
+<p align="left">
+  🎓 <strong>Certification:</strong> Google Cloud Professional Data Engineer
 </p>
 <p align="left">
   💌 <strong>If you liked my profile or want to connect with me, feel free to reach out via:</strong> ⤵️
@@ -32,45 +38,44 @@ Systems Analysis graduate currently working as a Data Engineer focused on evolvi
 
 Below you'll find my most recent work experience:
 
+[<img align="left" height="94px" width="94px" alt="WPP" src="https://media.licdn.com/dms/image/v2/D4D0BAQFXOWXbO-XlhA/company-logo_200_200/company-logo_200_200/0/1721999015833/wpp_media_services_logo?e=2147483647&v=beta&t=knUP6R_bgcfQvrr2m6cRqjAYZHJMV1xKK-QWCb9ZAcA"/>](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all)
+
+**Data Engineer** \
+[**WPP Media Services**](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all) • Full-time • Nov 2024 - Present \
+Languages & Technologies: `Python`, `PySpark`, `SQL`, `GCP (BigQuery, Dataflow, Pub/Sub, Vertex AI)`, `Cloud Composer (Airflow)`, `Docker`\
+<br/>
+Summary:
+<br/>
+* Architect and maintain data ingestion/transformation pipelines (BigQuery, Dataflow, Pub/Sub) for market-leading brands (Smartfit, LG, L'Oréal)
+* Implement data quality rules and validations across ETL/ELT workflows on BigQuery
+* Reduce downtime and improve pipeline performance through proactive monitoring (Cloud Monitoring)
+* Integrate Vertex AI into creative analysis workflows for AI-powered processing of advertising assets
+* Refactor and optimize pipelines to reduce operational and cloud costs
+
+[<img align="left" height="94px" width="94px" alt="Safe7" src="https://safe7consultoria.com.br/wp-content/uploads/2020/03/logo-nova-1024x1024.png"/>](https://safe7consultoria.com.br/)
+
+**Data Engineer** \
+[**Safe7**](https://safe7consultoria.com.br/) • Full-time • Dec 2023 - Nov 2024 \
+Languages & Technologies: `Python`, `PySpark`, `Flask`, `MySQL`, `MongoDB`, `GCP`, `REST APIs`\
+Featured Projects: `Safe7 Toolkit`, `ETL Pipeline for Inspection Data`, `Database Migration`\
+<br/>
+Summary:
+<br/>
+* Refactored and remodeled the entire relational database structure, defining new modeling standards
+* Led development of "Safe7 Toolkit" — internal platform centralizing workflows, automation, and KPI dashboards
+* Built scalable ETL pipelines on GCP using Python, PySpark, web scraping, and REST APIs
+* Designed reusable pipeline templates and components for faster delivery of new data workflows
+
 [<img align="left" height="94px" width="94px" alt="Mirum" src="https://media.licdn.com/dms/image/C560BAQGyA1CtAMmQbg/company-logo_200_200/0/1630594517323/mirumsoutheurope_logo?e=2147483647&v=beta&t=AHQFHqerzaF5RYfu3vkuxNeJf66bGXAydFRqw7Aaolw"/>](https://www.mirumagency.com.br/)
 
 **Data Engineer (Intern)** \
-[**Mirum Agency**](https://www.mirumagency.com.br/) • Part-time \
-Languages & Technologies: `Python`, `GCP`, `MySQL`, `Rest API`\
+[**Mirum Agency**](https://www.mirumagency.com.br/) • Part-time • Aug 2023 - Dec 2023 \
+Languages & Technologies: `Python`, `SQL`, `GCP (BigQuery, Cloud Functions)`, `REST APIs`\
 Featured Projects: `Magrathea`\
 <br/>
 Summary:
 <br/>
-* Maintenance and interpretation of codes used in ETL/ELT processes
-* Configuration and maintenance of GCP cloud services
-* SQL query creation and support to assist the BI team
-* Development of Python endpoints for connecting with media APIs (TikTok, Twitter, Pinterest, Google Ads)
-* Client support, account maintenance and configuration, and service monitoring assistance
-
-[<img align="left" height="94px" width="94px" alt="Safe7" src="https://safe7consultoria.com.br/wp-content/uploads/2020/03/logo-nova-1024x1024.png"/>](https://safe7consultoria.com.br/)
-
-**Data Engineer (JR)** \
-[**Safe7**](https://safe7consultoria.com.br/) • Full-time \
-Languages & Technologies: `Python`, `Flask`, `MySQL`, `MongoDB`, `GCP`, `Rest API`\
-Featured Projects: `Web Tools Development`, `ETL Pipeline for Inspection Data`, `Database Migration`\
-<br/>
-Summary:
-<br/>
-* Business context analysis and solution development to maximize productivity
-* Database refactoring and modeling
-* Creation of internal web tool "Safe7 Toolkit" centralizing processes and operating as viewer/manager for internal workflows
-* ETL pipeline development using GCP services with Python, web-scraping and REST APIs
-
-[<img align="left" height="94px" width="94px" alt="WPP" src="https://media.licdn.com/dms/image/v2/D4D0BAQFXOWXbO-XlhA/company-logo_200_200/company-logo_200_200/0/1721999015833/wpp_media_services_logo?e=2147483647&v=beta&t=knUP6R_bgcfQvrr2m6cRqjAYZHJMV1xKK-QWCb9ZAcA"/>](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all)
-
-**Data Engineer** \
-[**WPP Media Services**](https://www.linkedin.com/company/wpp-media-services/posts/?feedView=all) • Full-time \
-Languages & Technologies: `Python`, `SQL`, `GCP`, `Docker`\
-Featured Projects: `ETL Creation and Maintenance`, `Cloud Services Management`\
-<br/>
-Summary:
-<br/>
-* Develop and optimize data pipelines in cloud environments (GCP)
-* Automate data ingestion, transformation and storage processes (ETL/ELT)
-* Monitor and perform preventive maintenance on pipelines
-* Collaborate with cross-functional teams to implement data-driven solutions
+* Maintained and optimized ETL/ELT pipeline code for cross-functional use
+* Configured and managed GCP cloud services, monitoring system health
+* Developed complex SQL queries and supported the BI team's reporting needs
+* Built Python endpoints connecting to media APIs (TikTok, Twitter, Pinterest, Google Ads)
